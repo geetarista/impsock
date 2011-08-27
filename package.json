@@ -1,0 +1,5 @@
+{
+  "name": "impsock",
+  "description": "Socket.IO Plugin for the Impact Game Engine",
+  "version": "0.0.1"
+}
